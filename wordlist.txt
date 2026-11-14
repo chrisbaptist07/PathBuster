@@ -1,0 +1,141 @@
+# wordlist.txt
+# Common folder and file names found on websites.
+# One word per line. Anything after # is a note and is ignored.
+# Add your own words at the bottom!
+
+# ---------- Admin and login pages ----------
+admin
+administrator
+admin-panel
+adminpanel
+dashboard
+login
+logout
+signin
+signup
+register
+user
+users
+account
+accounts
+profile
+cpanel
+panel
+manage
+manager
+console
+portal
+wp-admin          # WordPress admin
+wp-login.php      # WordPress login
+phpmyadmin        # database admin tool
+
+# ---------- APIs ----------
+api
+api/v1
+api/v2
+graphql
+rest
+swagger           # API documentation
+swagger-ui
+api-docs
+openapi.json
+
+# ---------- Website content ----------
+about
+contact
+blog
+news
+help
+support
+docs
+search
+home
+index
+shop
+store
+products
+cart
+checkout
+pages
+posts
+
+# ---------- Files and uploads ----------
+uploads
+upload
+files
+file
+images
+img
+assets
+static
+media
+downloads
+download
+css
+js
+fonts
+public
+content
+
+# ---------- Backups and old versions ----------
+backup
+backups
+old
+new
+temp
+tmp
+test
+dev
+staging
+beta
+demo
+archive
+bak
+backup.zip
+site.zip
+www.zip
+
+# ---------- Settings and secret files (should NOT be public) ----------
+config
+configuration
+settings
+.env              # passwords and secret keys
+.git/HEAD         # source code history
+.gitignore
+.htaccess
+web.config
+config.php
+wp-config.php
+composer.json
+package.json
+
+# ---------- Server and developer pages ----------
+server-status     # Apache status page
+server-info
+phpinfo.php
+info.php
+status
+health
+metrics
+debug
+logs
+log
+cgi-bin
+includes
+inc
+lib
+vendor
+node_modules
+private
+secret
+hidden
+
+# ---------- Discovery files ----------
+robots.txt
+sitemap.xml
+sitemap_index.xml
+security.txt
+.well-known/security.txt
+humans.txt
+crossdomain.xml
+favicon.ico
